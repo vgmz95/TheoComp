@@ -1,2 +1,5 @@
-S->xA
-A->\
+S->aY
+Y->cY
+Y->eC
+C->cL
+L->\
