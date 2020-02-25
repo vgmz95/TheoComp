@@ -1,0 +1,9 @@
+S->xA
+S->yB
+A->yC
+A->xS
+A->\
+B->yS
+B->xC
+C->yA
+C->xB
